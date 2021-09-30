@@ -18,6 +18,6 @@
   	printf("Kich thuoc kieu du lieu char: %d byte\n", d);
   	printf("ky tu: A\n");
   	printf("Kich thuoc kieu du lieu long int: %d byte\n", e);
-  	printf("Kich thuoc kieu du lieu double: %d byte\n", g);
+  	printf("Kich thuoc kieu du lieu long double: %d byte\n", g);
   	return 0;
   	}
